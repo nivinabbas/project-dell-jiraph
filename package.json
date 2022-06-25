@@ -19,7 +19,7 @@
     "express": "^4.17.1",
     "material-table": "^1.69.0",
     "mongoose": "^5.10.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "nodemailer": "^6.4.11",
     "react-multiselect-checkboxes": "^0.1.1"
   }
